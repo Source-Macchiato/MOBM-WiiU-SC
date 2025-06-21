@@ -9,7 +9,6 @@ public class RandomBg : MonoBehaviour
     // folder contenant les sprites de fond
     public string backgroundsFolder = "cg_mirror_gg";
 
-    // Tableau pour stocker les sprites chargés
     private Sprite[] backgroundSprites;
 
 	public void Start()
