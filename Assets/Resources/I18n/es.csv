@@ -1,0 +1,93 @@
+menu.newgame,Nuevo juego
+menu.continue,Continuar
+menu.jukebox,Jukebox
+menu.options,Opciones
+menu.credits,Créditos
+menu.language,Idioma
+menu.language.english,English
+menu.language.french,Français
+menu.language.german,Deutsch
+menu.language.italian,Italiano
+menu.language.spanish,Español
+menu.language.polish,Polski
+menu.language.russian,Русский
+menu.layout,Disposición
+menu.back,Atrás
+menu.loading,Cargando
+menu.demo.thanks,¡Gracias por jugar esta demo!
+menu.demo.credits,Juego hecho por Nikita Kyurov<br>Porteado a Wii U por Source Macchiato
+menu.demo.links,Únete a nuestro servidor de Discord :<br>https://sourcemacchiato.com/discord<br><br>La pagina de itch de Nikita Kyurov :<br>https://nikita-kryukov.itch.io<br><br>(pulsa HOME para salir)
+menu.look.tv,Mira a tu televisión
+menu.look.gamepad,Mira a tu GamePad
+dialog.minicg.1,"Camino hacia mi habitación, intentando no mirar alrededor."
+dialog.minicg.2,"Traviesas sombras danzan a mi alrededor. Se mueven por las paredes, por el techo..."
+dialog.minicg.3,"Una de esas sombras pasa zumbando a mi lado, tocando mi cara muy levemente. Sonrío y sigo caminando, sin darle importancia."
+dialog.minicg.4,"A veces es tan fácil perder la compostura y la noción del tiempo, cuando bailas alegremente."
+dialog.minicg.5,Pero tengo un poco de prisa. Mamá me ha dicho que me vaya a la cama.
+dialog.minicg.6,"Paso la cocina de camino a mi habitación. La puerta está cerrada, pero aún puedo sentir el aire helado que viene del otro lado. Lo primero que se me viene a la cabeza es que hay un zombi que sopla por la bocallave, riéndose con sorna."
+dialog.minicg.7,"Ja-ja, ¡qué tontería! Estoy completamente segura de que no hay ningún zombi en nuestra cocina, lo sé con certeza. Estoy completamente segura de que..."
+dialog.minicg.8,"Comienzo a correr hacia la puerta cerrada lo más rápido que puedo. Las sombras bailan con más intensidad su danza caótica, ¿intentan pararme o relajarme? No lo sé, ahora eso no importa. ¿¡No lo entiendes!?"
+dialog.minicg.9,"Agito los brazos mientras corro, intentando ahuyentar a mis molestos perseguidores, de repente me doy cuenta de que no podré detenerme a tiempo. No tengo otra opción que romper la puerta."
+dialog.minicg.10,"Si hay alguien dentro, seguro que le doy un susto de muerte. Pero... espera, ¿cómo puedo darle un susto de muerte a un muerto? ¿y si eso lo revive? No, no, no... ¡No quiero eso! ¿qué hago...?"
+dialog.minicg.11,Antes de acabar de pensar mi hombro golpea la puerta y ésta se abre de golpe.
+dialog.minicg.12,"Como era de esperar, no hay ningún zombi, pero hay una bolsa de leche recién comprada en el centro de la mesa, mirándome sin pestañear. Yo también la miro. No pasa nada."
+dialog.minicg.13,Aunque... ¿qué esperaba? ¿gratitud? ¿He hecho algo para merecerla? A una bolsa de leche le es indiferente estar en el estante de una tienda o en la mesa de la cocina de mi madre.
+dialog.minicg.14,"Por otro lado, nadie bebe leche en una tienda, lo que significa que la he sacado del sitio más seguro para llevarla a un lugar desconocido. ¡Lo siento, pobrecita!"
+dialog.minicg.15,"Me doy la vuelta, avergonzada, y salgo de la habitación. No hago más que causar problemas a los demás..."
+dialog.minicg.16,Me dirijo a mi habitación por un estrecho pasillo.
+dialog.minicg.17,"En la puerta me encuentro con una criatura informe y familiar. Me agarra con fuerza y comienza a olisquear cada centímetro de mi cuerpo, como un perro famélico."
+dialog.minicg.18,"No me resisto, sé que no servirá de nada. Me quedo en silencio y aguanto, su fuerte agarre impide que me mueva."
+dialog.minicg.19,"Tras olisquearme de pies a cabeza, la criatura extiende sus horribles patas, mostrando una garra: delgada y afilada, como una daga."
+dialog.minicg.20,- ¿Otra... vez?
+dialog.minicg.21,Pregunto mientras miro a los vacíos ojos del monstruo.
+dialog.minicg.22,- NO TE MUEVAS.
+dialog.minicg.23,"La criatura aprieta mi brazo hasta que se marcan las venas. Yo sigo observando los agujeros donde deberían encontrarse sus ojos, ignorando el dolor."
+dialog.minicg.24,- Lo prometí tantas veces...
+dialog.minicg.25,- QUIETA.
+dialog.minicg.26,"Al momento de decir eso, su garra pincha mi brazo. No siento nada más que el apenas perceptible reptar bajo mi piel y el vibrar de mis tendones tensos. Y, entonces... la garra me inyecta su veneno."
+dialog.minicg.27,- Duele...
+dialog.minicg.28,"Un blanco velo aparece ante mis ojos, mis dedos se entumecen y comienzan a retorcerse frenéticamente. Pierdo el control de mi cuerpo y caigo lentamente al suelo, como la última vez, pero..."
+dialog.minicg.29,- Por... ¿por qué me siento tan caliente?
+dialog.minicg.30,"Siento que mi sangre hierve. Fuertes escalofríos recorren mi cuerpo, paralizando todas mis células, mientras mis venas y arterias se calientan, a punto de estallar por la presión."
+dialog.minicg.31,"Intento gritar, pero en vez de palabras, de mi boca sale una espuma lechosa. La criatura se da cuenta y se abalanza sobre mí, enfurecida, agarrándome del cuello mientras mantiene su venenosa garra en mi brazo."
+dialog.minicg.32,- Mátame ya... ¡Mátame!
+dialog.minicg.33,"Gritos histéricos resuenan por el pasillo. En un ataque de ira, la criatura comienza a arañarme el cuello."
+dialog.minicg.34,"Gotas brillantes salpican por todos lados, haciendo ruido al chocar con las paredes. Intento recordar dónde cae cada una, para recogerlas después."
+dialog.minicg.35,"Debo recordar, debo..."
+dialog.minicg.36,"Una nueva ola de dolor recorre mi cuerpo. En un instante, todo se vuelve negro."
+dialog.minicg.37,- DILO: 'NO VOLVERÉ A BEBER LECHE NUNCA MÁS.'
+dialog.minicg.38,- Yo...
+dialog.minicg.39,- DILO.
+dialog.minicg.40,- No volveré... a beber leche... nunca más...
+dialog.minicg.41,- DILO OTRA VEZ.
+dialog.minicg.42,- ¡No volveré a beber leche nunca más!
+dialog.minicg.43,- ¡NO VOLVERÉ A BEBER LECHE NUNCA MÁS!
+dialog.cgmirror.1,"Por fin llego a mi habitación. Estoy tan cansada de todo este alboroto... ¡Por suerte, en mi habitación aún me siento cómoda y cálida! Ni siquiera los sonidos extraños que vienen del exterior me molestan."
+dialog.cgmirror.2,"Mamá me ha dicho que me vaya a la cama, así que tengo que hacer los preparativos necesarios. Me he lavado la cara y ahora estoy frente al espejo, con el cepillo de dientes en la boca."
+dialog.cgmirror.3,"Miro mi reflejo. No parece tener ganas de dormir. Sí, sé cómo te sientes..."
+dialog.cgmirror.4,Y pensar que hubo un tiempo en el que mi momento favorito del día eran los minutos antes de dormirme. Me encantaba esperar al inevitable momento en que el mundo real y el de los sueños chocaban.
+dialog.cgmirror.5,"Me despertaba para vivir ese momento, esperaba todo el día por él. Mi sueño era dormir todo el día, ¡hubiera sido genial! Pero los sueños siempre se desvanecen."
+dialog.cgmirror.6,"Como si alguien me los sacara de la cabeza, uno tras otro, sin parar... hasta que no queda ninguno. Y ahora tengo que volver a acostarme, aunque no tenga ganas."
+dialog.cgpills.1,"Tras terminar con mi cara, normalmente agarro mis pastillas. Es gracioso, no tengo ni idea de qué hacen por separado, ya que siempre me las tomo todas a la vez, sin pensar."
+dialog.cgpills.2,"Ahora quiero fijarme un poco más, pasarlas entre mis dedos, masticarlas..."
+dialog.cgpills.3,Haría lo que fuera por poder quedarme así un rato más.
+dialog.cgpills.4,"Una cápsula roja, lisa y alargada me mira. Está cubierta por una película translúcida oscura, pero puedo ver, de alguna manera, lo que contiene."
+dialog.cgpills.5,"A ver, ¿qué tienes dentro...?"
+dialog.cgpills.6,"Tiro suavemente de cada lado y, para mi sorpresa, la cápsula es suave y blandita. Tiro más fuerte y se abre, de ella sale un líquido rojo y pegajoso... Ay, ¡qué asco!"
+dialog.cgpills.7,"La tiro directamente a la papelera y me lavo las manos minuciosamente. No, ¡no pienso beberme ESO! Ni de broma."
+dialog.cgpills.8,"La siguiente es una píldora del mismo color rojo sangre. Tiene unas letras grabadas... Ah, ¡ya sé!"
+dialog.cgpills.9,"Estas son las que me hacen entrar el sueño, pero no es el tipo de sueño que yo quiero, en absoluto. ¡Es falso! ¡No, no no! ¡no quiero ni mirarla!"
+dialog.cgpills.10,Ésta también la tiro a la papelera.
+dialog.cgpills.11,La siguiente media hora la paso igual: estudiando cada pastilla minuciosamente y encontrando una razón para no tomármela.
+dialog.cgpills.12,"En vez de eso, me hago mi propia medicina y disfruto tomándomela, dejándome inundar por sus efectos curativos."
+dialog.cgpills.13,"...eh, ya no me duele el cuello."
+dialog.cgpills.14,"...eh, ya no me duele la mano."
+dialog.cgpills.15,"...eh, ya no me duele la cabeza."
+dialog.cgpills.16,"...eh, ya no me duele el corazón."
+dialog.cgpills.17,"...eh, ya no me duele el estómago."
+dialog.cgpills.18,"...eh, ya no me duelen los ojos."
+dialog.cgpills.19,¿Cómo no lo había pensado antes? ¡es súper fácil! ¡Necesito contárselo a alguien ya mismo!
+dialog.cgpills.20,"Pero a mamá no, me regañaría."
+dialog.cgpills.21,"Ella piensa que estoy durmiendo, no quiero molestarla sin motivo. ¡Ya pensaré en algo!"
+dialog.cgpills.22,"Además, solo quiero hablar un poco... Me pregunto quién será mi compañero de charla."
+choice.cgpills.1,(Ey...)

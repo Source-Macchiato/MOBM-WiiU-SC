@@ -1,0 +1,93 @@
+menu.newgame,Nowa gra
+menu.continue,Kontynuuj
+menu.jukebox,Automat muzyczny
+menu.options,Opcje
+menu.credits,Napisy końcowe
+menu.language,Język
+menu.language.english,English
+menu.language.french,Français
+menu.language.german,Deutsch
+menu.language.italian,Italiano
+menu.language.spanish,Español
+menu.language.polish,Polski
+menu.language.russian,Русский
+menu.layout,Układ
+menu.back,Wstecz
+menu.loading,Ładowanie
+menu.demo.thanks,Thanks for playing this demo !
+menu.demo.credits,Made by Nikita Kryukov<br>Remade by Source Macchiato
+menu.demo.links,Join our Discord server :<br>https://sourcemacchiato.com/discord<br><br>Nikita Kryukov itch page :<br>https://nikita-kryukov.itch.io<br><br>(press HOME to exit)
+menu.look.tv,Look at your TV
+menu.look.gamepad,Look at your GamePad
+dialog.minicg.1,"Idę do swojego pokoju, starając się nie rozglądać."
+dialog.minicg.2,"Wokół mnie tańczą złośliwe cienie, poruszają się szybko w górę i w dół, po ścianach i po suficie..."
+dialog.minicg.3,"Jeden z tych cieni figlarnie przemyka obok, lekko dotykając mojej twarzy - uśmiecham się i idę dalej, nie zwracając na to większej uwagi."
+dialog.minicg.4,"Czasami tak łatwo jest stracić panowanie nad sobą i dać się wciągnąć w szalony taniec, po czym poczucie czasu zupełnie znika."
+dialog.minicg.5,Zresztą kompletnie nie mam czasu - mama kazała mi iść spać.
+dialog.minicg.6,"Idę do swojego pokoju mijając kuchnię. Nawet przez zamknięte drzwi unosił się chłód mogiły. W pierwszej chwili pomyślałam, że o drzwi opiera się trup, który dmucha przez dziurkę od klucza, chichocząc szyderczo."
+dialog.minicg.7,"Ha-ha, co za nonsens! Wiem na pewno, że w naszej kuchni nie ma martwych ludzi. Wiem na pewno, że w naszej kuchni nie ma i nigdy nie było martwych ludzi. Wiem na pewno, że..."
+dialog.minicg.8,"Zerwałam się z miejsca i popędziłam w stronę zamkniętych drzwi. Cienie natychmiast zaczęły tańczyć pięć razy bardziej chaotycznie; nie wiedziałam, czy chciały mnie zniechęcić, czy uspokoić. Teraz to już bez różnicy! Rozumiesz to?!"
+dialog.minicg.9,"Machałam rękoma, próbując odstraszyć irytujących prześladowców, i nagle zdałam sobie sprawę, że nie ma możliwości, żebym zwolniła na czas. Nie mam wyboru, muszę wyważyć drzwi."
+dialog.minicg.10,"Jeśli ktoś jest w środku, to na pewno wystraszę go na śmierć. Chociaż, czekaj... Jeśli wystraszysz martwego człowieka na śmierć, to czy to nie czyni go ponownie żywym? Nie, nie, to się nie uda! Co mam zrobić?.."
+dialog.minicg.11,"Zanim zdążyłam się nad tym zastanowić, z impetem uderzyłam w drzwi, wyważjąc je."
+dialog.minicg.12,"Zgodnie z oczekiwaniami, w środku nie ma trupa. Jest jednak karton po mleku, który dziś kupiłam - stoi na środku stołu i wpatruje się we mnie nie zmrużonymi oczami. Patrzę na niego z powrotem - nic się nie dzieje."
+dialog.minicg.13,"Na co ja w ogóle czekam? Na pochwałę? Ale czy zrobiłam coś, by na to zasłużyć? Nie wydaje mi się, żeby karton mleka miał jakiekolwiek znaczenie, czy stoi na sklepowej półce, czy na środku stołu w kuchni mamy."
+dialog.minicg.14,"Z drugiej strony, nikt nie piłby mleka prosto w sklepie - wychodzi na to, że zabrałam karton z najbezpieczniejszego dla niego miejsca w przerażającą niewiadomą. Przepraszam, mleczko!"
+dialog.minicg.15,"Zawstydzona, odwracam się i pospiesznie wychodzę z kuchni. Jestem taka problematyczna..."
+dialog.minicg.16,Idę wąskim korytarzem do swojego pokoju.
+dialog.minicg.17,"W drzwiach spotykam znajome bezkształtne stworzenie, które przywiera do mnie i zaczyna obwąchiwać każdy centymetr mojego ciała jak wygłodniały pies."
+dialog.minicg.18,"Nie walczyłam z tym, bo wiedziałam, że to nie ma sensu. Po prostu znoszę to milcząco, podczas gdy ono trzyma mnie mocno, nie pozwalając mi się ruszyć."
+dialog.minicg.19,"Obwąchawszy mnie od stóp do głów, stwór wyciąga swoje szkaradne łapy, odsłaniając pojedynczy pazur, cienki i ostry jak żyletka."
+dialog.minicg.20,- Znowu?..
+dialog.minicg.21,Spoglądam pytająco prosto w bezdenne oczy potwora.
+dialog.minicg.22,- NIE RUSZAJ SIĘ.
+dialog.minicg.23,"Stwór ściska moje ramię tak mocno, aż było widać żyły. Nadal wpatruję się w czarne szczeliny w jego oczach, ignorując wszelki ból."
+dialog.minicg.24,- Obiecywałam tyle razy...
+dialog.minicg.25,- PRZESTAŃ SIĘ WIERCIĆ.
+dialog.minicg.26,"W tym samym momencie pazur wbił się w moje przedramię. Nie czułam prawie nic, poza ledwie wyczuwalnym poruszeniem pod skórą i dzwonieniem napiętych ścięgien. Ale wtedy... wtedy pazur wstrzyknął swój jad."
+dialog.minicg.27,- T-to boli...
+dialog.minicg.28,"Przed oczami zamigotała mi biaława mgiełka, palce zaciskały się i rozwierały, a ja zaczęłam tracić kontrolę nad swoim ciałem i powoli osuwałam się na podłogę. Tak jak ostatnio. Jednak..."
+dialog.minicg.29,- Dlaczego... dlaczego jest tak gorąco?
+dialog.minicg.30,"Czułam, że powoli gotuje mi się krew. Intensywny dreszcz przebiegł przez moje ciało, paraliżując każdą komórkę, gdy moje żyły i tętnice rozgrzały się, ledwo mogąc wytrzymać napór."
+dialog.minicg.31,"Próbuję krzyczeć, ale zamiast słów wypluwam gęstą mleczną pianę; zauważając to, stwór rzuca się na mnie z furią i chwyta mnie za gardło, nie wyciągając z mojego przedramienia zatrutego pazura."
+dialog.minicg.32,- Zabij mnie. Zabij mnie!
+dialog.minicg.33,"Po korytarzu rozlega się histeryczny wrzask, stwór w przypływie szaleństwa zaczyna drapać mnie po szyi."
+dialog.minicg.34,"Jasne bryzgi lecą we wszystkich kierunkach, uderzając o ściany z dźwięcznym łoskotem, staram się zapamiętać, gdzie spadła każda kropla, aby móc je wszystkie zebrać."
+dialog.minicg.35,"Nie zapomnieć, najważniejsze to nie zapomnieć..."
+dialog.minicg.36,Nowa fala bólu ogarnęła mnie. Wszystko zgasło w jednej chwili.
+dialog.minicg.37,- POWTÓRZ: 'NIGDY NIE BĘDĘ PIĆ MLEKA.'
+dialog.minicg.38,- N-nigdy...
+dialog.minicg.39,- POWTÓRZ.
+dialog.minicg.40,- Nigdy... nie będę pić... mleka...
+dialog.minicg.41,- POWTÓRZ.
+dialog.minicg.42,- Nigdy nie będę pić mleka!
+dialog.minicg.43,- NIGDY NIE BĘDĘ PIĆ MLEKA!
+dialog.cgmirror.1,W końcu dotarłam do swojego pokoju. Mam już dość tego całego zamieszania - dobrze jest czuć się przytulnie i ciepło w moim ulubionym pokoju! Nawet dziwne odgłosy zza drzwi ani trochę mi nie przeszkadzają.
+dialog.cgmirror.2,"Mama kazała mi iść do łóżka, więc muszę poczynić wszystkie niezbędne przygotowania. Umyłam twarz i stoję teraz przy lustrze ze szczoteczką do zębów w ustach."
+dialog.cgmirror.3,"Wpatruję się w swoje odbicie, które nie wykazywało chęci pójścia do łóżka. Tak, rozumiem o co ci chodzi..."
+dialog.cgmirror.4,Kiedyś moją ulubioną porą dnia były ostatnie chwile przed snem. Moment oczekiwania na nieuchronne zderzenie rzeczywistości ze światem marzeń był kiedyś moim ulubionym momentem.
+dialog.cgmirror.5,"Budziłam się tylko dla tego, żyłam cały dzień tylko dla tego. Moim największym marzeniem jest przespać cały dzień - jakie to byłoby wspaniałe! Jednak sny powoli, ale nieubłaganie się ulatniały."
+dialog.cgmirror.6,"To było tak, jakby ktoś wyciągał mi je z głowy, jedno po drugim, jedno po drugim... aż nie zostało nic. Znów musiałam iść do łóżka, choć nie czułam takiej potrzeby."
+dialog.cgpills.1,"Po skończeniu mycia zębów sięgam po lekarstwa. To zabawne, ale nie mam pojęcia co one dokładnie robią - zawsze połykałam je na raz bez zastanowienia."
+dialog.cgpills.2,"Teraz chciałam się im przyjrzeć z bliska, poczuć je w palcach, posmakować..."
+dialog.cgpills.3,"Wszystko, żeby zdobyć więcej czasu."
+dialog.cgpills.4,"Gładka i wydłużona czerwona kapsułka patrzy na mnie. Na zewnątrz pokryta jest mętną, półprzezroczystą powłoką, ale wciąż można zobaczyć jej zawartość."
+dialog.cgpills.5,"Więc, co masz w środku?"
+dialog.cgpills.6,"Naciskam lekko na obie strony kapsułki i z zaskoczeniem stwierdzam, że jest ona bardzo miękka i giętka. Ścisnęłam jeszcze raz i kapsułka pękła; wypłynął z niej lepki, jasnoczerwony płyn... Obrzydlistwo!"
+dialog.cgpills.7,"Tabletka trafia prosto do kosza na śmieci; myję starannie ręce. Nie, nie będę tego piła!"
+dialog.cgpills.8,"Następna w kolejce była płaska tabletka o tym samym krwistoczerwonym kolorze. Miała też odciśnięte jakieś litery... Aha, zrozumiałam!"
+dialog.cgpills.9,"Jest to rodzaj substancji, która sprawia, że jesteś strasznie senny. Ale to nie jest prawdziwy sen. Nie, nie, nie! Nawet nie chcę tego widzieć!"
+dialog.cgpills.10,"Jak pierwsza tabletka, ta też kończy w koszu."
+dialog.cgpills.11,"Następne pół godziny przebiega tak: oglądam tabletki ze wszystkich stron i dla każdej znajduję powód, żeby jej w żadnym wypadku nie brać."
+dialog.cgpills.12,"Zamiast tego wymyślam własne lekarstwa i z przyjemnością zażywam je jedno po drugim, poddając się ich uzdrawiającym właściwościom."
+dialog.cgpills.13,...nie boli mnie już gardło.
+dialog.cgpills.14,...nie boli mnie już ręka.
+dialog.cgpills.15,...nie boli mnie już głowa.
+dialog.cgpills.16,...nie boli mnie już serce.
+dialog.cgpills.17,...nie boli mnie już brzuch.
+dialog.cgpills.18,...nie bolą mnie już oczy.
+dialog.cgpills.19,Dlaczego nie wpadłam na to wcześniej? To takie proste! Muszę się komuś natychmiast pochwalić!
+dialog.cgpills.20,"...ale nie mamie, będzie narzekać."
+dialog.cgpills.21,"Poza tym jest pewna, że już śpię, więc nie chcę jej przeszkadzać. Sama coś wymyślę!"
+dialog.cgpills.22,"A tak w ogóle, to chcę tylko pogadać... Ah, kto będzie moim partnerem do rozmowy?"
+choice.cgpills.1,(Ej...)

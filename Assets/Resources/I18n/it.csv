@@ -1,0 +1,93 @@
+menu.newgame,Nuova partita
+menu.continue,Continua
+menu.jukebox,Juke-box
+menu.options,Opzioni
+menu.credits,Crediti
+menu.language,Lingue
+menu.language.english,English
+menu.language.french,Français
+menu.language.german,Deutsch
+menu.language.italian,Italiano
+menu.language.spanish,Español
+menu.language.polish,Polski
+menu.language.russian,Русский
+menu.layout,Layout
+menu.back,Indietro
+menu.loading,Caricamento
+menu.demo.thanks,Grazie per star giocando questa demo !
+menu.demo.credits,Creato da Nikita Kryukov<br>Ri-Creato da Source Macchiato
+menu.demo.links,Unisciti al nostro server Discord :<br>https://sourcemacchiato.com/discord<br><br>Nikita Kryukov pagina itch :<br>https://nikita-kryukov.itch.io<br><br>(premi HOME per uscire)
+menu.look.tv,Guarda alla tua TV
+menu.look.gamepad,Guarda al tuo GamePad
+dialog.minicg.1,"Sto camminando verso la mia stanza, cercando di non guardarmi attorno."
+dialog.minicg.2,"Ombre giocose danzano attorno a me qua e là. Si schiantano sulle pareti, sul soffitto..."
+dialog.minicg.3,"Una di quelle ombre mi sfreccia accanto, toccandomi leggermente il viso. Sorrido e continuo a camminare, senza farci caso."
+dialog.minicg.4,"A volte è così facile perdere l'autocontrollo e la cognizione del tempo, volteggiando in una danza gioiosa."
+dialog.minicg.5,Ma sono un pò di fretta ora. Mamma mi ha detto di andare a letto.
+dialog.minicg.6,"Passo davanti alla cucina mentre vado in camera mia. La porta è chiusa, ma posso comunque sentire l'aria gelida proveniente dall'altra parte. Il mio primo pensiero è che ci sia un cadavere vivente che soffia nel buco della serratura, ridendo in modo beffardo."
+dialog.minicg.7,"Ahaha, è così sciocco! Sono assolutamente sicura che non abbiamo cadaveri nella nostra cucina. So per certo che non abbiamo mai avuto cadaveri nella nostra cucina. Sono assolutamente sicura che..."
+dialog.minicg.8,Mi metto a correre e mi precipito verso la porta chiusa. Le ombre intensificano la loro danza caotica. Stanno cercando di fermarmi o di calmarmi? Non lo so. Non importa adesso. Non capisci?!
+dialog.minicg.9,"Agito le mani mentre corro, cercando di scacciare i miei fastidiosi inseguitori, ma poi all'improvviso mi rendo conto che non potrò fermarmi in tempo. Adesso non ho altra scelta che sfondare la porta."
+dialog.minicg.10,"Se c'è qualcuno dentro, lo spaventerò sicuramente a morte. Ma aspetta, come posso spaventare a morte qualcuno che è già morto? E se li facesse davvero rianimare? No, no, no, non lo voglio! Cosa devo fare...?"
+dialog.minicg.11,Non riuscivo a completare a pieno il mio pensiero quando la mia spalla colpì la porta e questa si spalancò.
+dialog.minicg.12,"Come mi aspettavo, all'interno non c'era nessun cadavere vivente. Ma c'era un sacchetto di latte che ho comprato oggi, seduto proprio al centro del tavolo, che mi osservava con i suoi occhi immobili. Lo guardo indietro. Non succede nulla."
+dialog.minicg.13,Anche se... cosa mi aspettavo esattamente? Gratitudine? Ho fatto qualcosa che lo giustificasse? A un sacchetto di latte probabilmente non importa se è sullo scaffale di un negozio o sul tavolo nella cucina di mia madre.
+dialog.minicg.14,"D'altra parte, nessuno berrebbe il latte all'interno del negozio, il che significa che l'ho preso dal posto più sicuro del mondo fino allo spaventoso ignoto. Mi dispiace tanto, poverino!"
+dialog.minicg.15,Mi giro dall'altra parte per la vergogna ed esco in fretta dalla stanza. Porto solo guai agli altri...
+dialog.minicg.16,Cammino verso la mia stanza attraverso uno stretto corridoio.
+dialog.minicg.17,"Incontro una creatura familiare e informe alla porta. Mi stringe tra le sue grinfie e inizia ad annusare ogni centimetro del mio corpo, come un cane affamato."
+dialog.minicg.18,Non sto lottando. So che è inutile. Rimango semplicemente in silenzio e sopporto la sua presa salda che mi impedisce di muovermi.
+dialog.minicg.19,"Dopo avermi annusato dalla testa ai piedi, la creatura tende le sue brutte zampe, rivelando un unico artiglio: sottile e affilato, come una lama."
+dialog.minicg.20,- Di nuovo...?
+dialog.minicg.21,Fisso con aria interrogativa le orbite senza fondo del mostro.
+dialog.minicg.22,- NON TI MUOVERE.
+dialog.minicg.23,"La creatura mi stringe le mani finché le mie vene non iniziano a gonfiarsi. E io continuo a fissare le cavità nere dove dovrebbero esserci i suoi occhi, ignorando ogni dolore."
+dialog.minicg.24,- L'ho promesso tante volte...
+dialog.minicg.25,- RESTA FERMO.
+dialog.minicg.26,"Nel momento in cui lo dice, il suo artiglio mi trafigge il braccio. Non sento altro che il strisciare appena percettibile sotto la pelle e l'anello di nervi strettamente elastici. Ma poi... poi l'artiglio mi inietta il suo veleno."
+dialog.minicg.27,- Fa male...
+dialog.minicg.28,"Un velo bianco appare davanti ai miei occhi, le mie dita si crampano e iniziano a contrarsi freneticamente. Perdo il controllo del mio corpo e scivolo lentamente sul pavimento. Proprio come l'ultima volta. Ma..."
+dialog.minicg.29,- Perché... Perché ho così caldo?
+dialog.minicg.30,"Sento che mi ribolle il sangue. Forti brividi percorrono il mio corpo, paralizzando ogni singola cellula, mentre le mie vene e le mie arterie si surriscaldano, quasi scoppiando per quella pressione."
+dialog.minicg.31,"Provo a urlare, ma invece di produrre parole vomito una densa schiuma lattiginosa. La creatura se ne accorge e si scaglia contro di me con rabbia, afferrandomi per la gola mentre tiene l'artiglio velenoso nel mio braccio."
+dialog.minicg.32,- Uccidimi. Uccidimi!
+dialog.minicg.33,"Urla isteriche risuonano nel corridoio. In un impeto di follia, la creatura inizia a grattarmi il collo."
+dialog.minicg.34,"Spruzzi luminosi volano ovunque, colpendo le pareti con un suono forte. Cerco di imprimere nella mia memoria dove è caduta ogni goccia, per poterle poi raccogliere tutte."
+dialog.minicg.35,"Ho bisogno di ricordare, ho bisogno..."
+dialog.minicg.36,Una nuova ondata di dolore mi travolge. Tutto diventa buio pesto in un istante.
+dialog.minicg.37,-DILLO: NON BERRÒ MAI PIÙ IL LATTE.
+dialog.minicg.38,- Io...
+dialog.minicg.39,- DILLO.
+dialog.minicg.40,- Non berrò mai... il latte... mai più...
+dialog.minicg.41,- DILLO DI NUOVO.
+dialog.minicg.42,- Non berrò mai più il latte!
+dialog.minicg.43,- NON BERRÒ MAI PIÙ IL LATTE!
+dialog.cgmirror.1,"Finalmente arrivo nella mia stanza. Sono così stanca di tutto questo trambusto... Per fortuna, mi sento ancora a mio agio e al caldo nella mia stanza! Anche i suoni strani che provengono dall'esterno non mi mettono affatto ansia."
+dialog.cgmirror.2,"La mamma mi ha detto di andare a letto, quindi devo fare tutti i preparativi necessari. Mi sono lavata la faccia e ora sono davanti allo specchio con uno spazzolino da denti in bocca."
+dialog.cgmirror.3,"Guardo il mio riflesso. Non mostra assolutamente alcun desiderio di dormire. Sì, capisco come ti senti..."
+dialog.cgmirror.4,E c'è stato un tempo in cui gli ultimi minuti prima di dormire erano il momento della giornata che preferivo. Amavo anticipare il momento inevitabile in cui la realtà e il mondo dei sogni si sarebbero scontrati.
+dialog.cgmirror.5,"Mi sono svegliata per quel momento, ho vissuto la giornata per esso. Il mio sogno più grande era dormire tutto il giorno. Sarebbe stato fantastico! Ma i sogni svanivano sempre lentamente ma inesorabilmente."
+dialog.cgmirror.6,"Come se qualcuno me li avesse ripescati dalla testa, uno dopo l'altro, uno dopo l'altro... finché non fosse rimasto più nulla. E adesso devo dormire di nuovo, anche se non ne sento il bisogno."
+dialog.cgpills.1,"Dopo aver finito con la faccia, di solito prendo le mie pillole. È divertente, ma non ho idea di come funzionino separatamente dato che le ingoio sempre insieme senza pensarci."
+dialog.cgpills.2,"Ora le voglio guardare meglio, rigirarle tra le dita, masticarle..."
+dialog.cgpills.3,Farei qualsiasi cosa per prendere tempo ancora per un po'.
+dialog.cgpills.4,"Una capsula rossa liscia e sporgente mi guarda. È ricoperta da una pellicola torbida e semitrasparente, ma riesco ancora a discernerne il contenuto."
+dialog.cgpills.5,Allora cosa abbiamo dentro di te...?
+dialog.cgpills.6,"Premo delicatamente la capsula da entrambi i lati e, con mia sorpresa, risulta essere morbida e soffice. Premo più forte e la capsula scoppia. Ne fuoriesce un liquido appiccicoso,di un rosso vivo... Lurido, sporco!"
+dialog.cgpills.7,"La pillola vola dritta nel cestino dei rifiuti e inizio a lavarmi rigorosamente le mani. No, non è possibile che la beva!"
+dialog.cgpills.8,"Poi c'era una pillola piatta dello stesso colore rosso sangue. C'erano alcune lettere stampate sopra... Oh, ho capito!"
+dialog.cgpills.9,"Questa è la medicina che mi fa venire davvero sonno. Ma non è il tipo di sonno che desidero, non è affatto quello. È falso! No, no, no! Non voglio nemmeno guardarla!"
+dialog.cgpills.10,Anche la pillola vola nel cestino dei rifiuti.
+dialog.cgpills.11,La mezz'ora successiva va in modo simile: studio ogni pillola da tutti i lati e poi trovo un motivo per non ingoiarla.
+dialog.cgpills.12,"Invece invento le mie medicine e mi diverto a ingoiarle una dopo l'altra, lasciandomi affogare nei loro effetti curativi."
+dialog.cgpills.13,"...ehi, il collo non mi fa più male."
+dialog.cgpills.14,"...hei, la mano non mi fa più male."
+dialog.cgpills.15,"...hei, la testa non mi fa più male."
+dialog.cgpills.16,"...hei, il cuore non mi fa più male."
+dialog.cgpills.17,"...hei, lo stomaco non mi fa più male."
+dialog.cgpills.18,"...hei, gli occhi non mi fanno più male."
+dialog.cgpills.19,Come mai non ci ho pensato prima? È così semplice! Devo vantarmene subito con qualcuno!
+dialog.cgpills.20,"Ma non con mia madre, mi sgriderebbe e basta."
+dialog.cgpills.21,E comunque è sicura che sto già dormendo. Non voglio disturbarla senza motivo. Penserò a qualcosa anch'io!
+dialog.cgpills.22,"Inoltre, vorrei solo chiacchierare un po'... mi chiedo, chi sarà il mio compagno di chiacchere?"
+choice.cgpills.1,(Hei...)

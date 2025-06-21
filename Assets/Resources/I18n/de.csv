@@ -1,0 +1,93 @@
+menu.newgame,Neues Spiel
+menu.continue,Fortsetzen
+menu.jukebox,Musikbox
+menu.options,Optionen
+menu.credits,Credits
+menu.language,Sprache
+menu.language.english,English
+menu.language.french,Français
+menu.language.german,Deutsch
+menu.language.italian,Italiano
+menu.language.spanish,Español
+menu.language.polish,Polski
+menu.language.russian,Русский
+menu.layout,Layout
+menu.back,Zurück
+menu.loading,Lade
+menu.demo.thanks,Danke fürs Spielen dieser Demo!
+menu.demo.credits,Entwickelt von Nikita Kryukov<br>Neu aufgelegt von Source Macchiato
+menu.demo.links,Komm in unseren Discord Server! (Was hast du zu verlieren?) :<br>https://sourcemacchiato.com/discord<br><br>Nikita Kryukovs itch Seite :<br>https://nikita-kryukov.itch.io<br><br>(Drücke die HOME-Taste zum Verlassen)
+menu.look.tv,Schau auf deinen Fernseher
+menu.look.gamepad,Schau auf deinen GamePad
+dialog.minicg.1,"Ich gehe in mein Zimmer und versuche, mich nicht umzusehen."
+dialog.minicg.2,"Verspielte Schatten tanzen um mich herum, mal hier, mal da. Sie flitzen überall and den Wänden, die Decke..."
+dialog.minicg.3,"Einer dieser Schatten flitzt and mir vorbei und berührt ganz leicht mein Gesicht. Ich lächle und gehe weiter, ohne Gedanken darüber zu machen."
+dialog.minicg.4,"Manchmal ist es so einfach die Selbstbeherrschung und das Zeitgefühlt zu verlieren, die sich in einen fröhlichen Tanz drehen. "
+dialog.minicg.5,"Aber ich bin hier ein bisschen in Eile. Mama sagte, dass ich ins Bett gehen soll."
+dialog.minicg.6,"Ich laufe an der Küche vorbei, Richtung meines Zimmers. Die Tür ist zu, aber ich kann immer noch die kühlende Luft von der anderen Seite spüren. Mein erster Gedanke ist, dass da eine lebende Leiche in das Schlüsselloch pustet, lache ich spöttisch."
+dialog.minicg.7,"Ahaha, das ist so lustig! Ich bin mir absolut sicher, dass wir keine Leichen in unserer Küche haben. Ich weiß ganz sicherlich, dass wir noch nie Leichen in unserer Küche hatten. Ich bin mir absolut sicher, dass..."
+dialog.minicg.8,Ich breche in einen Lauf ein und sprinte Richtung der geschlossenen Tür. Die Schatten intensivieren deren chaotischen Tanz. Versuchen sie mich aufzuhalten oder zu beruhigen? Ich weiß nicht. Es ist sowieso gerade egal. Verstehst du's nicht?! 
+dialog.minicg.9,"Ich wedele mit meinen Händen herum während ich renne und versuche dabei meine lästigen Verfolger zu verjagen, aber dann realisiere ich plötzlich, dass ich es nicht rechtzeitig schaffen werde, sie aufzuhalten. Ich habe keine andere Wahl mehr, als die Tür jetzt aufzubrechen."
+dialog.minicg.10,"Wenn da jemand drinnen verweilt, kann ich sie sicher zu Tode erschrecken. Aber warte, wie kann ich jemanden zu Tode erschrecken, wenn es schon tot ist? Was wäre, wenn dies jemanden sogar wiederbeleben würde? Nein, nein, nein, Das möchte ich nicht! Was soll ich tun...?"
+dialog.minicg.11,"Ich konnte meine Gedanken nicht vollständig beenden, als meine Schulter die Tür getroffen hat und sie aufgeflogen ist."
+dialog.minicg.12,"Wie ich schon erwartete, war da keine lebende Leiche drinnen. Aber dort war eine Tüte Milch, die ich Heute gekauft habe, genau in der Mitte des Tisches liegend, welche mich mit ihren nicht-blinzelnden Augen ansieht. Ich starre zurück. Nichts passiert."
+dialog.minicg.13,"Obwohl... Was habe ich genau erwartet? Dankbarkeit? Hab ich etwas getan was es garantiert hat? Einer Tüte Milch ist es wahrscheinlich  sowieso egal, ob es sich auf dem Regal im Laden oder in Mamas Küche befindet."
+dialog.minicg.14,"Auf der anderen Seite würde niemand Milch im Laden trinken, was bedeutet dass Ich es vom sichersten Ort der Welt entnommen und es ins gruselige Unbekannte gebracht habe. Es tut mir so leid du armes Ding!"
+dialog.minicg.15,Ich drehe mich in Scham um und verlasse den Raum in Eile. Ich liefere anderen nur Ärger...
+dialog.minicg.16,Ich laufe in einem Schmalen Korridor Richtung meines Zimmers.
+dialog.minicg.17,"Ich treffe eine bekannte, formlose Kreatur an der Tür. Es hält mich in seinen Fängen fest und fängt an, jeden Zentimeter meines Körpers zu schnüffeln, genauso wie ein hungriger Hund."
+dialog.minicg.18,"Ich kämpfe nicht. Ich weiß, dass es nutzlos ist. Ich bleibe einfach ruhig und ertrage den festen Griff, welcher mich vom Bewegen abhält."
+dialog.minicg.19,"Nachdem es mich von Kopf bis Zeh durchgeschnüffelt hat, hält die Kreatur ihre hässlichen Pfoten raus und entblößt eine einzige Klaue: dünn und scharf, wie eine Klinge."
+dialog.minicg.20,- Schon wieder...?
+dialog.minicg.21,Fragend starre ich in die leeren Augenhöhlen des Monsters.
+dialog.minicg.22,- BLEIB STEHEN.
+dialog.minicg.23,"Die Kreatur quetscht meine Hände, bis meine Venen anfangen sich zu wölben. Und ich bleibe dabei, die schwarzen Hohlräume wo die Augen sein sollten anzustarren und ignoriere all den Schmerz."
+dialog.minicg.24,- Ich habe es schon so oft versprochen...
+dialog.minicg.25,- BLEIB HIER.
+dialog.minicg.26,"Genau als es das sagte, durchbohrte es meinen Arm. Ich spüre nichts anderes außer das kaum wahrnehmbare Kriechen unter meiner Haut und den Ring fest gefederter Sehnen. Aber dann... dann pumpt die Klaue deren Gift in mir."
+dialog.minicg.27,- Es tut weh...
+dialog.minicg.28,"Ein weißer Schleier erscheint vor meinen Augen, meine Finger krampfen und fangen an, verzweifelt zu zucken. Ich verliere die Beherrschung über meinen Körper und mein Körper sinkt so langsam zu Boden. Genauso wie letztes mal. Aber... "
+dialog.minicg.29,- Warum... Warum fühle ich mich so heiß?
+dialog.minicg.30,"Ich fühle, wie mein Blut sich aufkocht. Starke Schauer flitzen durch meinen Körper, die jede Zelle paralysieren, während meine Adern und Arterien heiß werden, die schon fast von diesem Druck platzen."
+dialog.minicg.31,"Ich versuche zu schreien, aber anstelle von Wörtern zu produzieren, erbreche ich dicken, milchigen Schaum. Die Kreatur bemerkt es und wirft sich auf mich in Wut. Es nimmt meine Kehle, während es seine giftige Klaue in meinen Arm lässt."
+dialog.minicg.32,- Töte mich. Töte mich!
+dialog.minicg.33,"Hysterische Schreie widerhallen durch den Korridor. In einen Anfall von Wahnsinn fängt die Kreatur damit an, meinen Nacken zu kratzen."
+dialog.minicg.34,"Grelle Spritzer fliegen überall hin, sie treffen die Wände mit einem lauten Geräusch. Ich versuche mir in meiner Erinnerung einen Abdruck zu machen, wo jeder Tropfen fiel, so dass ich sie später versammeln kann."
+dialog.minicg.35,"Ich muss es mir merken, Ich muss..."
+dialog.minicg.36,Eine neue Welle von Schmerz überschwemmt mich. Alles färbt sich direkt Pechschwarz.
+dialog.minicg.37,- SAG ES: ICH WERDE NIE WIEDER MILCH TRINKEN.
+dialog.minicg.38,- Ich...
+dialog.minicg.39,- SAG ES.
+dialog.minicg.40,- Ich werde... nie wieder... Milch trinken...
+dialog.minicg.41,- SAG ES NOCHMAL.
+dialog.minicg.42,- Ich werde nie wieder Milch trinken!
+dialog.minicg.43,- ICH WERDE NIE WIEDER MILCH TRINKEN!
+dialog.cgmirror.1,"Ich komme endlich in meinem Zimmer. Ich bin so müde von all dieser Aufregung...  Zum Glück fühle ich mich noch in meinem Zimmer warm und gemütlich! Sogar diese komischen Geräusche die von draußen kommen, machen mich gar nicht nervös. "
+dialog.cgmirror.2,"Mama meinte, dass ich schlafen gehen sollte, also muss ich alles vorbereiten. Ich habe mein Gesicht gewaschen und nun stehe ich vorm Spiegel mit einer Zahnbürste im Mund."
+dialog.cgmirror.3,"Ich sehe mir selbst ins Gesicht. Es zeigt absolut kein begehren zum Schlafen. Ja, ich verstehe wie du dich fühlst..."
+dialog.cgmirror.4,"Und es gab mal eine Zeit, wo die letzten Minuten vorm Schlaf meine liebste Zeit des Tages waren. Ich liebte es, den unvermeidlichen Moment zu antizipieren, in dem die Realität und die Traumwelt aufeinanderprallen würden."
+dialog.cgmirror.5,"Ich wachte für diesen Augenblick auf und durchlebte den Tag dafür. Mein größter Traum wars, den ganzen Tag zu schlafen. Es wäre ja so cool! Aber die Träume sind immer, langsam aber sicher entglitten."
+dialog.cgmirror.6,"Als hätte sie jemand aus meinem Kopf gefischt, einer nach dem anderen... Bis nichts mehr übrig war. Und jetzt muss ich wieder schlafen, auch wenn ich mich gar nicht danach fühle."
+dialog.cgpills.1,"Nachdem ich mit meinem Gesicht fertig bin nehme ich normalerweise meine Pillen. Es ist witzig, aber ich habe keine Ahnung wie sie separat  funktionieren sollen, da ich sie immer als Haufen einnehme ohne nachzudenken."
+dialog.cgpills.2,"Jetzt möchte ich es mir mal genauer ansehen, um sie zwischen meinen Fingern zu drehen, um darauf zu kauen..."
+dialog.cgpills.3,Ich würde alles tun um nur noch ein bisschen mehr im Stillstand zu bleiben.
+dialog.cgpills.4,"Eine glatte, hervorstehende, rote Kapsel sieht mich an.  Es ist in einer finsteren, halbtransparenten Folie bedeckt, aber ich kann immer noch den Inhalt erkennen."
+dialog.cgpills.5,"Also, was haben wir in dir...?"
+dialog.cgpills.6,"Ich drücke sanft auf beiden Seiten der Kapsel und zu meiner Überraschung stellt sich heraus, dass es weich und flauschig ist. Ich drücke härter und die Kapsel springt auf. Klebrige, helle, rote Flüssigkeit gießt raus... Dreckig, dreckig!"
+dialog.cgpills.7,"Die Pille fliegt ganz schnell in den Eimer und ich fange an, meine Hände streng zu waschen. Nein, es gibt keinen Weg dass ich dieses ZEUG trinke!"
+dialog.cgpills.8,"Als nächstes kam eine flache Pille mit der selben blutroten Farbe. Dort drauf waren ein paar Buchstaben gedruckt... Oh, Ich verstehe!"
+dialog.cgpills.9,"Das ist die Medizin, welche mich sehr schläfrig macht. Aber dies ist nicht der Typ von Schlaf, den ich verlange, es ist auf keinen Fall den Schlaf, den ich verlange. Es ist gefälscht! Nein, nein, nein! Ich möchte es noch nicht einmal ansehen!"
+dialog.cgpills.10,Die Pille fliegt auch in den Mülleimer.
+dialog.cgpills.11,"Die nächste halbe Stunde vergeht in ähnlicher Weise: Ich beobachte jede Pille von allen Seiten und dann finde ich einen Grund, sie nicht zu verschlucken."
+dialog.cgpills.12,"Anstelle erfinde ich meine eigene Medizin und genieße es, sie nacheinander zu verschlucken und lasse mich selbst in deren heilenden Effekten tränken."
+dialog.cgpills.13,"...hey, mein Nacken tut nicht mehr weh."
+dialog.cgpills.14,"...hey, meine Hand tut nicht mehr weh."
+dialog.cgpills.15,"...hey, mein Kopf tut nicht mehr weh."
+dialog.cgpills.16,"...hey, mein Herz tut nicht mehr weh."
+dialog.cgpills.17,"...hey, mein Bauch tut nicht mehr weh."
+dialog.cgpills.18,"...hey, meine Augen tuen nicht mehr weh."
+dialog.cgpills.19,Wie kann ich so spät erst dran denken? Das ist so simpel! Ich muss gleich bei jemanden darüber prahlen!
+dialog.cgpills.20,"Aber meine Mutter nicht, sie würde mich nur beschimpfen."
+dialog.cgpills.21,"Und sie ist sich sicher, dass ich schon schlafen würde. Ich möchte sie nicht grundlos stören. Ich werde mir selbst was einfallen!"
+dialog.cgpills.22,"Außerdem möchte ich unbedingt jemanden für ein Pläuschchen haben. Da frage ich mich, wer wird mein Gesprächspartner sein?"
+choice.cgpills.1,(Hey...)

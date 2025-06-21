@@ -1,0 +1,93 @@
+menu.newgame,New game
+menu.continue,Continue
+menu.jukebox,Juke-box
+menu.options,Options
+menu.credits,Credits
+menu.language,Language
+menu.language.english,English
+menu.language.french,Français
+menu.language.german,Deutsch
+menu.language.italian,Italiano
+menu.language.spanish,Español
+menu.language.polish,Polski
+menu.language.russian,Русский
+menu.layout,Layout
+menu.back,Back
+menu.loading,Loading
+menu.demo.thanks,Thanks for playing this demo !
+menu.demo.credits,Made by Nikita Kryukov<br>Remade by Source Macchiato
+menu.demo.links,Join our Discord server :<br>https://sourcemacchiato.com/discord<br><br>Nikita Kryukov itch page :<br>https://nikita-kryukov.itch.io<br><br>(press HOME to exit)
+menu.look.tv,Look at your TV
+menu.look.gamepad,Look at your GamePad
+dialog.minicg.1,"I'm walking to my room, trying not to look around."
+dialog.minicg.2,"Playful shadows dance around me here and there. They dash all over the walls, the ceiling..."
+dialog.minicg.3,"One of those shadows whizzes past me, touching my face ever so slightly. I smile and continue walking, paying it no mind."
+dialog.minicg.4,"Sometimes it's so easy to lose self-control and track of time, spinning in a joyful dance."
+dialog.minicg.5,But I'm in a bit of a hurry here. Mom told me to go to bed.
+dialog.minicg.6,"I walk past the kitchen on the way to my room. The door is shut, but I can still feel the chilling air coming from the other side. My first thought is that there's a living corpse blowing into the keyhole, laughing mockingly."
+dialog.minicg.7,"Ahaha, that's so silly! I'm absolutely sure we have no corpses in our kitchen. I know for sure that we've never had any corpses in our kitchen. I'm absolutely sure that..."
+dialog.minicg.8,I break into a run and dash toward the closed door. The shadows intensify their chaotic dance. Are they trying to stop me or calm me down? I don't know. It doesn't matter right now. Don't you get it?!
+dialog.minicg.9,"I wave my hands around as I run, trying to chase away my annoying pursuers, but then I suddenly realize that I won't be able to stop in time. I've got no other choice but to break the door now."
+dialog.minicg.10,"If there's somebody inside, I'll surely scare them to death. But wait, how can I scare to death someone who's already dead? What if it actually revives them? No, no, no, I don't want that! What do I do...?"
+dialog.minicg.11,I couldn't fully complete my thought when my shoulder hit the door and it flew open.
+dialog.minicg.12,"As I expected, there was no living corpse inside. But there was a bag of milk I bought today, sitting right in the middle of the table, watching me with its unblinking eyes. I stare back. Nothing happens."
+dialog.minicg.13,Although... What exactly did I expect? Gratitude? Have I done something that warranted it? A bag of milk probably doesn't care whether it's on the shelf in a store or on the table in my mom's kitchen.
+dialog.minicg.14,"On the other hand, nobody would drink milk inside the store, which means I took it from the safest place in the world and into the scary unknown. I'm so sorry, you poor thing!"
+dialog.minicg.15,I turn away in shame and leave the room in a hurry. I only bring others trouble...
+dialog.minicg.16,I walk toward my room through a narrow corridor.
+dialog.minicg.17,"I meet a familiar formless creature at the door. It locks me in its clutches and starts sniffing every inch of my body, like a hungry dog."
+dialog.minicg.18,I'm not struggling. I know it's useless. I just stay silent and endure its tight grip that stops me from moving.
+dialog.minicg.19,"After sniffing me from head to toe, the creature holds out its ugly paws, baring a single claw: thin and sharp, like a blade."
+dialog.minicg.20,- Again...?
+dialog.minicg.21,I stare questioningly into the monster's bottomless eye sockets.
+dialog.minicg.22,- DON'T MOVE.
+dialog.minicg.23,"The creature squeezes my hands until my veins start bulging. And I just keep staring into the black cavities where its eyes should be, ignoring all pain."
+dialog.minicg.24,- I've promised so many times...
+dialog.minicg.25,- STAY PUT.
+dialog.minicg.26,"The moment it says that, its claw pierces my arm. I don't feel anything other than the barely discernible crawling under my skin and the ring of tightly sprung sinews. But then... then the claw injects its venom into me."
+dialog.minicg.27,- It hurts...
+dialog.minicg.28,"A white veil appears in front of my eyes, my fingers cramp and start twitching frantically. I lose control over my body and slowly slide to the floor. Just like last time. But..."
+dialog.minicg.29,- Why... Why do I feel so hot?
+dialog.minicg.30,"I feel my blood boiling up. Strong shivers run through my body, paralyzing every single cell, while my veins and arteries heat up, almost bursting from that pressure."
+dialog.minicg.31,"I try screaming, but instead of producing words, I vomit thick milky foam. The creature notices it and throws itself at me in anger, grabbing me by the throat while keeping the poisonous claw inside my arm."
+dialog.minicg.32,- Kill me. Kill me!
+dialog.minicg.33,"Hysterical screams resound through the corridor. In a fit of madness, the creature starts scratching my neck."
+dialog.minicg.34,"Bright splashes fly everywhere, hitting the walls with a loud sound. I try to imprint where every drop fell in my memory, so I could gather them all later."
+dialog.minicg.35,"I need to remember, I need..."
+dialog.minicg.36,A new wave of pain washes over me. Everything turns pitch-black in an instant.
+dialog.minicg.37,- SAY IT: I'LL NEVER DRINK MILK EVER AGAIN.
+dialog.minicg.38,- I...
+dialog.minicg.39,- SAY IT.
+dialog.minicg.40,- I'll never... drink milk... ever again...
+dialog.minicg.41,- SAY IT AGAIN.
+dialog.minicg.42,- I'll never drink milk ever again!
+dialog.minicg.43,- I'LL NEVER DRINK MILK EVER AGAIN!
+dialog.cgmirror.1,"I finally get to my room. I'm so tired of all this fuss... Thankfully, I still feel comfy and warm in my room! Even the weird sounds coming from the outside don't make me anxious at all."
+dialog.cgmirror.2,"Mom told me to go to bed, so I need to perform all the needed preparations. I've washed my face, and now I'm standing in front of the mirror with a toothbrush in my mouth."
+dialog.cgmirror.3,"I look at my reflection. It shows absolutely no desire to sleep. Yeah, I get how you feel..."
+dialog.cgmirror.4,And there was a time when the last minutes before I sleep were my favorite time of the day. I loved anticipating the inevitable moment when the reality and the dream world would clash.
+dialog.cgmirror.5,"I woke up for that moment's sake, lived through the day for it. My biggest dream was to sleep all day long. It would've been so cool! But the dreams always slowly, but surely, slipped away."
+dialog.cgmirror.6,"As if somebody fished them out of my head, one after another, one after another... until nothing was left. And now I have to sleep again, even though I don't feel any need for it."
+dialog.cgpills.1,"After finishing with my face, I usually reach out for my pills. It's funny, but I have no idea how they work separately since I always swallow them as a bunch without thinking."
+dialog.cgpills.2,"Now I want to have a better look at it, to twirl it between my fingers, to chew on it..."
+dialog.cgpills.3,I'd do anything to stall for just a little bit more time.
+dialog.cgpills.4,"A smooth, protruded red capsule is looking at me. It's covered in a murky, semi-transparent film, but I can still discern its contents."
+dialog.cgpills.5,So what do we have inside you...?
+dialog.cgpills.6,"I gently press on the capsule from both sides and, to my surprise, it turns out to be soft and squishy. I press harder and the capsule pops. Sticky, bright red liquid pours out... Filthy, filthy!"
+dialog.cgpills.7,"The pill flies straight to the waste bin and I start rigorously washing my hands. No, there's no way I'm drinking THAT!"
+dialog.cgpills.8,"Next was a flat pill of the same blood-red color. There were some letters printed out on it... Oh, I get it!"
+dialog.cgpills.9,"This is the medicine that makes me really sleepy. But it's not the type of sleep I want, that's not it at all. It's fake! No, no, no! I don't even want to look at it!"
+dialog.cgpills.10,The pill flies into the waste bin as well.
+dialog.cgpills.11,The next half an hour goes by in a similar fashion: I study every pill from all sides and then I find a reason not to swallow it.
+dialog.cgpills.12,"I invent my own medicine instead and enjoy swallowing them one after another, letting myself drown in their healing effects."
+dialog.cgpills.13,"...hey, my neck doesn't hurt anymore."
+dialog.cgpills.14,"...hey, my hand doesn't hurt anymore."
+dialog.cgpills.15,"...hey, my head doesn't hurt anymore."
+dialog.cgpills.16,"...hey, my heart doesn't hurt anymore."
+dialog.cgpills.17,"...hey, my stomach doesn't hurt anymore."
+dialog.cgpills.18,"...hey, my eyes don't hurt anymore."
+dialog.cgpills.19,How come I didn't think of this earlier? This is so simple! I need to brag about it to someone right away!
+dialog.cgpills.20,"But not to my mom, she'll just scold me."
+dialog.cgpills.21,And she's sure I'm already sleeping anyway. I don't want to disturb her without reason. I'll think of something myself!
+dialog.cgpills.22,"Besides, I just really want some small talk... I wonder, who's going to be my conversation partner?"
+choice.cgpills.1,(Hey...)
