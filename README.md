@@ -1,12 +1,12 @@
-# Milk outside a bag of Milk: WiiU Edition
+# Milk outside a bag of Milk: Wii U Edition
 
 **A homebrew recreation of Milk outside a bag of Milk for the Wii U.** <br>
 
 ## About
-Milk outside a bag of Milk: WiiU Edition is a fan-made homebrew port of *Milk outside a bag of Milk*, developed from scratch for the Wii U. This project aims to faithfully recreate the experience of the original game while optimizing it for Nintendo's console. This remake also make serval improvement that the Switch version implemented badly.
+Milk outside a bag of Milk: Wii U Edition is a fan-made homebrew port of *Milk outside a bag of Milk*, developed from scratch for the Wii U. This project aims to faithfully recreate the experience of the original game while optimizing it for Nintendo's console. This remake also make serval improvement that the Switch version implemented badly.
 ## How to Get the Source Code
 
-You can download the source code of *Milk outside a bag of Milk: WiiU Edition* directly from this repository. However, all original game assets have been **censored** to protect the work of **Nikita Kryukov**, the original creator.
+You can download the source code of *Milk outside a bag of Milk: Wii U Edition* directly from this repository. However, all original game assets have been **censored** to protect the work of **Nikita Kryukov**, the original creator.
 
 To restore the missing assets, you’ll need a copy of the original game and follow the steps below:
 
@@ -18,7 +18,7 @@ To restore the missing assets, you’ll need a copy of the original game and fol
 
 ### Steps
 
-1. **Download** both the source code of *Milk outside a bag of Milk: WiiU Edition* and the **MOBMAssetRecover** tool.
+1. **Download** both the source code of *Milk outside a bag of Milk: Wii U Edition* and the **MOBMAssetRecover** tool.
 2. **Extract the original game assets:**
 
    * Locate the original game’s install folder.
