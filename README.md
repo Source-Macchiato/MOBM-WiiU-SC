@@ -63,7 +63,7 @@ To restore the missing assets, you’ll need a copy of the original game and fol
 
 
 ## Images of the game
-<img src="/Medias/cover1.jpg" width="300"> <img src="/Medias/cover2.jpg" width="300"> <img src="/Medias/cover3.jpg" width="300"> <img src="/Medias/cover4.jpg" width="300">
+<img src="./Medias/cover1.jpg" width="300"> <img src="./Medias/cover2.jpg" width="300"> <img src="./Medias/cover3.jpg" width="300"> <img src="./Medias/cover4.jpg" width="300">
 
 ## Contributing
 If you’d like to contribute to this project, feel free to submit pull requests. Any bug reports or feature suggestions are welcome in the [Issues](https://github.com/Source-Macchiato/MOBM-WiiU-SC/issues) section.
