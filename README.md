@@ -52,7 +52,7 @@ To restore the missing assets, you’ll need a copy of the original game and fol
 ## Installation
 ### Requirements
 - A homebrewed Wii U (Haxchi, Mocha, Tiramisu or Aroma)
-- NUSpli or WUP Installer GX2
+- NUSspli or WUP Installer GX2
 - SD card with sufficient space
 
 ### Steps
